@@ -1,0 +1,3 @@
+Django==5.2.17
+psycopg2-binary==2.9.13
+environs==15.2.0
